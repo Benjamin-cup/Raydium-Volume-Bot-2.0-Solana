@@ -1,6 +1,7 @@
-# Raydium Volume Bot V3
 
-This bot is designed to automate the distribution of SOL to multiple wallets and execute endless buy and sell swap transactions simultaneously on the Raydium and Meteora platform. It leverages Solana's blockchain technology to perform these operations efficiently.
+# Raydium Volume Bot V2
+
+This bot is designed to automate the distribution of SOL to multiple wallets and execute endless buy and sell swap transactions simultaneously on the Raydium  platform. It leverages Solana's blockchain technology to perform these operations efficiently.
 And add feature to boost volume in Marketplace.
 
 ### What is the main difference between the former volume booster and the updated one?
@@ -24,17 +25,33 @@ And add feature to boost volume in Marketplace.
 - 🚀 **Swap with Meteora SDK: Swap is performed with Meteora dlmm and dyn SDK.
 - 🛠️ **Configurable Parameters**: Allows customization of buy amounts, intervals, distribution settings, and more.
 
-## Example
-https://solscan.io/account/EqCgCTBSSqdzaZDr6r1LPsysXdJwc2jn3CBqD5dNQS6Q
+## 📞 **Stay Connected**
 
-https://github.com/user-attachments/assets/df532c73-3c68-42e7-828a-4e1927c42047
+Gmail: benjamin.bigdev@gmail.com
+
+Telegram: [@SOLBenjaminCup](https://t.me/SOLBenjaminCup)
+
+Discord: @.benjamincup
 
 
-#  🚀 Usage
+## 🚀 Recording Video
+
+
+
+
+
+https://github.com/user-attachments/assets/a1020077-fbaf-4ced-9669-ec0eca633616
+
+
+
+
+
+
+## 🚀 Usage
 ### 1. Clone the repository
 ```
-git clone https://github.com/ZireaelGit/solana-volume-bot.git
-cd solana-volume-bot
+git clone https://github.com/Benjamin-cup/Raydium-Volume-Bot-2.0-Solana.git
+cd Raydium-Volume-Bot-2.0-Solana
 ```
 ### 2. Install dependencies
 ```
@@ -56,9 +73,5 @@ npm start
 npm run gather
 ```
 
-## Author
-
-### Telegram: [Meta0xFlip](https://t.me/Meta0xFlip)   
-https://t.me/Meta0xFlip
 
 You can always find me here, for help, or for other projects.
